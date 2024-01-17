@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/background-mlsa.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Blak gamers background";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "WaveAtMe🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A web3 app that lets you share your favourite track of the day anonymously and who knows?;Someone might send yu some ETH",
+    url: "https://github.com/Hopp-Murithi/my-wave-portal",
   },
   {
-    title: "Web Development for Beginners",
+    title: "JilitodoV1 API",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is a feature-rich, secure, and scalable Node.js todo application built with Express and Knex, complete with user authentication using cookies and role-based access control",
+    url: "https://github.com/Hopp-Murithi/jilitodov1",
   },
   {
-    title: "My Resume Site",
+    title: "EasyManage",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A training management system built with custom wordpress(PHP)",
+    url: "https://github.com/Hopp-Murithi/easymanage",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Snappy",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A picture-collection social media web application built with reactjs and sanity client",
+    url: "https://github.com/Hopp-Murithi/snappy",
   },
 ];
 
